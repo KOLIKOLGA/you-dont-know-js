@@ -27,8 +27,3 @@ book[4].children[0].children[0].textContent =
   "Книга 3. this и Прототипы Объектов";
 
 book6[8].innerHTML = "<li>Глава 8: За пределами ES6</li>";
-
-console.log(aside);
-console.log(adv);
-console.log(book);
-console.log(book6);
